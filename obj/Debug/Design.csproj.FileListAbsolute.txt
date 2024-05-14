@@ -1,0 +1,42 @@
+D:\Phan mem\VS 2022\THuandeptrai\Design\bin\Debug\Design.exe.config
+D:\Phan mem\VS 2022\THuandeptrai\Design\bin\Debug\Design.exe
+D:\Phan mem\VS 2022\THuandeptrai\Design\bin\Debug\Design.pdb
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.csproj.AssemblyReference.cache
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.csproj.SuggestedBindingRedirects.cache
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.Form1.resources
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.Properties.Resources.resources
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.csproj.GenerateResource.cache
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.exe
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.pdb
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.Form2.resources
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.LogIn.resources
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.trangchu.resources
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.QL_Hóa_Đơn___Doanh_Thu.resources
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.NhanVien.resources
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.MDIParent1.resources
+D:\Phan mem\VS 2022\THuandeptrai\Design\obj\Debug\Design.QL_Tài_Khoản___Khách_Hàng_Thân_Thiết.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\bin\Debug\Design.exe.config
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\bin\Debug\Design.exe
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\bin\Debug\Design.pdb
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.csproj.AssemblyReference.cache
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.CapNhatDanhMucSanPham.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.CapNhatNhaCungCap.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.CapNhatSanPham.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.QLDMSP.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.QL_Hóa_Đơn___Doanh_Thu.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.Form1.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.Form2.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.NhanVien.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.LogIn.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.MDIParent1.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.Properties.Resources.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.trangchu.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.QL_Tài_Khoản___Khách_Hàng_Thân_Thiết.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.SuaThongTinKhachHang.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.ThayDoiThongTin.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.ThemNhanVien.resources
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.csproj.GenerateResource.cache
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.exe
+C:\Users\TAM\OneDrive\Máy tính\Final\Design\obj\Debug\Design.pdb

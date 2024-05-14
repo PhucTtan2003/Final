@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\ql-th\u00F4ng tin kh\u00E1ch h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|solutionrelative:ql-th\u00F4ng tin kh\u00E1ch h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|c:\\users\\tam\\onedrive\\m\u00E1y t\u00EDnh\\final\\design\\suathongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|solutionrelative:suathongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\suathongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|solutionrelative:suathongtinkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|solutionrelative:mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\ql-th\u00F4ng tin kh\u00E1ch h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|solutionrelative:ql-th\u00F4ng tin kh\u00E1ch h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F643BDA2-E3F9-433B-BE8B-36F5CD06634D}|Design.csproj|solutionrelative:mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs",
+              "DocumentMoniker": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs",
+              "RelativeDocumentMoniker": "QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs",
+              "ToolTip": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs",
+              "RelativeToolTip": "QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAIAwwJMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:12:39.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuaThongTinKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\SuaThongTinKhachHang.cs",
+              "RelativeDocumentMoniker": "SuaThongTinKhachHang.cs",
+              "ToolTip": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\SuaThongTinKhachHang.cs",
+              "RelativeToolTip": "SuaThongTinKhachHang.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:52:46.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuaThongTinKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\SuaThongTinKhachHang.cs",
+              "RelativeDocumentMoniker": "SuaThongTinKhachHang.cs",
+              "ToolTip": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\SuaThongTinKhachHang.cs [Design]",
+              "RelativeToolTip": "SuaThongTinKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:48:48.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs",
+              "RelativeDocumentMoniker": "QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs",
+              "ToolTip": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs [Design]",
+              "RelativeToolTip": "QL-Th\u00F4ng Tin Kh\u00E1ch H\u00E0ng.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:35:31.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MDIParent1.cs",
+              "DocumentMoniker": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "MDIParent1.cs",
+              "ToolTip": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\MDIParent1.cs",
+              "RelativeToolTip": "MDIParent1.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:07:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MDIParent1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "MDIParent1.cs",
+              "ToolTip": "C:\\Users\\TAM\\OneDrive\\M\u00E1y t\u00EDnh\\Final\\Design\\MDIParent1.cs [Design]",
+              "RelativeToolTip": "MDIParent1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:07:20.302Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
